@@ -67,6 +67,10 @@ The neural network utilizes feedforward propagation for prediction and backpropa
 -   `numpy`
 -   `tkinter`
 -   `Pillow (PIL)`
+## Results
+-  Training Set Accuracy: ~99.44%
+-  Test Set Accuracy: ~97.32%
+-  Precision: ~0.9944
 
 You can install these dependencies using pip:
 
