@@ -1,3 +1,4 @@
+![Screenshot (22)](https://github.com/user-attachments/assets/c0cfe4f8-d3a6-4fa3-8f7c-28f03271744e)
 # Handwritten-Digit-Recognition-using-Neural-Network
 Handwritten Digit Recognition using Neural Network
 # Handwritten Digit Recognition with GUI
